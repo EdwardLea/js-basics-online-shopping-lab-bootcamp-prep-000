@@ -71,7 +71,7 @@ if(newList.length === 0){
 function placeOrder(cardNumber) {
   if( cardNumber === ""){
     return "Sorry, we don't have a credit card on file for you.";
-  } else{
+  } else{ return "Your total"
     
   }
 }
